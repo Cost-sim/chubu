@@ -12,7 +12,8 @@ h1{
   font-size: 16px;
   font-weight: bold;
   text-align:start;
-  color:#0e71f3
+  color:#0e71f3;
+
 }
 
 .info  {
@@ -40,8 +41,7 @@ h1{
 
 }
 #radio1,
-#radio2,
-#radio3{
+#radio2{
 cursor: pointer;
 margin: 10px;
 
