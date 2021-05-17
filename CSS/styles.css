@@ -12,7 +12,8 @@ h1{
   font-size: 16px;
   font-weight: bold;
   text-align:start;
-  color:#0e71f3
+  color:#0e71f3;
+
 }
 
 .info  {
@@ -125,6 +126,7 @@ input[type="number"]::-webkit-inner-spin-button {
   margin-top: -10px;
   color: #3897fd;
 }
+
 #reset{
   text-decoration: underline;
   cursor: pointer;
